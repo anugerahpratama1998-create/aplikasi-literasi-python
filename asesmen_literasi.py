@@ -227,7 +227,7 @@ def quiz_page():
                 st.session_state.score = final_score
 
                 # Send data to Google Sheets via webhook
-                with st.spinner("https://script.google.com/macros/s/AKfycbzotmxhdDjejP06Tf6l1v5TjGZlLMpejpYUNZVn8SSiz8-1L72zXGqMYi1u5PQX01Vt/exec"):
+                with st.spinner("Mengirim data ke sistem..."):
                     try:
                         payload = {
                             "nama": st.session_state.user_name,
