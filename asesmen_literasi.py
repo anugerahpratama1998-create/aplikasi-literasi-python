@@ -63,7 +63,7 @@ def inject_custom_css():
 inject_custom_css()
 
 # GANTI URL DI BAWAH INI DENGAN URL WEB APP GOOGLE SCRIPT ANDA
-GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbyv2fHe2j_fbx5JN-fvSWaz2lyt5AecN1QbKyQJRrxDlukqYzDBujtBlqo3e8CvxECZXA/exec"
+GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbxfCxwlUkn2eQxLGj1_hUH3vg_43u2WNhp6wnb1zItI8vwPVrcBvv4d1sQMGPT5cDS5/exec"
 
 # Data Soal dan Kunci Jawaban
 QUIZ_DATA = {
